@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "minecraft:raw_copper_block"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:dead_bubble_coral_block"
+    }
+}

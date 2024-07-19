@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:smelting",
+    "category": "misc",
+    "cookingtime": 200,
+    "experience": 0.7,
+    "group": "copper_ingot",
+    "ingredient": {
+        "item": "minecraft:copper_ore"
+    },
+    "result": {
+        "id": "minecraft:cut_copper_stairs",
+        "count": 1
+    }
+}

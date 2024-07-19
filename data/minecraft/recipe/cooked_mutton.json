@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:smelting",
+    "category": "food",
+    "cookingtime": 200,
+    "experience": 0.35,
+    "ingredient": {
+        "item": "minecraft:mutton"
+    },
+    "result": {
+        "id": "minecraft:mangrove_sign",
+        "count": 1
+    }
+}

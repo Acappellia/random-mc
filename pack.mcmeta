@@ -1,0 +1,19 @@
+{
+    "pack": {
+        "pack_format": 48,
+        "description": [
+            {
+                "text": "Random loot and craft ",
+                "color": "blue"
+            },
+            {
+                "text": "by nano",
+                "color": "white"
+            },
+            {
+                "text": "\nv1 - MC 1.21",
+                "color": "gray"
+            }
+        ]
+    }
+}

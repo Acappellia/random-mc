@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:smelting",
+    "category": "misc",
+    "cookingtime": 200,
+    "experience": 0.7,
+    "group": "iron_ingot",
+    "ingredient": {
+        "item": "minecraft:raw_iron"
+    },
+    "result": {
+        "id": "minecraft:waxed_copper_door",
+        "count": 1
+    }
+}
