@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:tube_coral_block"
+                    "name": "minecraft:furnace_minecart"
                 }
             ],
             "rolls": 1.0

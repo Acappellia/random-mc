@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:dark_oak_planks"
+                    "name": "minecraft:cobblestone"
                 }
             ],
             "rolls": 1.0

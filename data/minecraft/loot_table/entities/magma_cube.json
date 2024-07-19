@@ -51,7 +51,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:diorite_stairs"
+                    "name": "minecraft:waxed_exposed_copper"
                 },
                 {
                     "type": "minecraft:item",
@@ -76,7 +76,7 @@
                             "function": "minecraft:set_count"
                         }
                     ],
-                    "name": "minecraft:charcoal"
+                    "name": "minecraft:dripstone_block"
                 },
                 {
                     "type": "minecraft:item",
@@ -101,7 +101,7 @@
                             "function": "minecraft:set_count"
                         }
                     ],
-                    "name": "minecraft:green_stained_glass_pane"
+                    "name": "minecraft:string"
                 },
                 {
                     "type": "minecraft:item",
@@ -126,7 +126,7 @@
                             "function": "minecraft:set_count"
                         }
                     ],
-                    "name": "minecraft:snowball"
+                    "name": "minecraft:chiseled_tuff_bricks"
                 }
             ],
             "rolls": 1.0

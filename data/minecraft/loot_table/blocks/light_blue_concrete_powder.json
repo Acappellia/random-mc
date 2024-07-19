@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:ladder"
+                    "name": "minecraft:ender_eye"
                 }
             ],
             "rolls": 1.0

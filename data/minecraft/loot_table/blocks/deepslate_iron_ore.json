@@ -26,7 +26,7 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:blackstone_wall"
+                            "name": "minecraft:cyan_concrete_powder"
                         },
                         {
                             "type": "minecraft:item",
@@ -40,7 +40,7 @@
                                     "function": "minecraft:explosion_decay"
                                 }
                             ],
-                            "name": "minecraft:lapis_lazuli"
+                            "name": "minecraft:black_banner"
                         }
                     ]
                 }

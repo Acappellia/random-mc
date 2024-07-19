@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:magenta_bed"
+                    "name": "minecraft:string"
                 }
             ],
             "rolls": 1.0

@@ -23,11 +23,11 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:diamond_axe"
+                            "name": "minecraft:pink_dye"
                         },
                         {
                             "type": "minecraft:item",
-                            "name": "minecraft:polished_blackstone"
+                            "name": "minecraft:polished_blackstone_pressure_plate"
                         }
                     ]
                 }
@@ -59,7 +59,7 @@
                             }
                         }
                     ],
-                    "name": "minecraft:granite_slab"
+                    "name": "minecraft:brewing_stand"
                 }
             ],
             "rolls": 1.0

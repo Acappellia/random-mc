@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:chiseled_polished_blackstone"
+                    "name": "minecraft:gray_stained_glass_pane"
                 }
             ],
             "rolls": 1.0

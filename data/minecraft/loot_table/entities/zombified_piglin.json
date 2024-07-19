@@ -26,7 +26,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:polished_blackstone"
+                    "name": "minecraft:tuff_brick_stairs"
                 }
             ],
             "rolls": 1.0
@@ -56,7 +56,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:orange_candle"
+                    "name": "minecraft:polished_andesite_stairs"
                 }
             ],
             "rolls": 1.0
@@ -81,7 +81,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:blast_furnace"
+                    "name": "minecraft:orange_banner"
                 }
             ],
             "rolls": 1.0

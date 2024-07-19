@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:stone_stairs"
+                    "name": "minecraft:light_gray_banner"
                 }
             ],
             "rolls": 1.0

@@ -37,7 +37,7 @@
                                     ]
                                 }
                             ],
-                            "name": "minecraft:iron_ingot"
+                            "name": "minecraft:purple_concrete_powder"
                         },
                         {
                             "type": "minecraft:item",
@@ -56,7 +56,7 @@
                                     "enchantment": "minecraft:fortune"
                                 }
                             ],
-                            "name": "minecraft:prismarine_crystals"
+                            "name": "minecraft:deepslate_iron_ore"
                         }
                     ]
                 }
@@ -126,7 +126,7 @@
                             "function": "minecraft:explosion_decay"
                         }
                     ],
-                    "name": "minecraft:smooth_quartz_slab"
+                    "name": "minecraft:sandstone"
                 }
             ],
             "rolls": 1.0

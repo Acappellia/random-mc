@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:dark_oak_wood"
+                    "name": "minecraft:diamond_block"
                 }
             ],
             "rolls": 1.0

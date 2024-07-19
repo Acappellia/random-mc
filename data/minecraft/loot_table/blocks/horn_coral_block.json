@@ -26,7 +26,7 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:weeping_vines"
+                            "name": "minecraft:polished_tuff_slab"
                         },
                         {
                             "type": "minecraft:item",
@@ -35,7 +35,7 @@
                                     "condition": "minecraft:survives_explosion"
                                 }
                             ],
-                            "name": "minecraft:waxed_exposed_cut_copper_stairs"
+                            "name": "minecraft:light_blue_bed"
                         }
                     ]
                 }

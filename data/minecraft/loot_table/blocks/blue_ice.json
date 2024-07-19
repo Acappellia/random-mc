@@ -23,7 +23,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:rabbit"
+                    "name": "minecraft:detector_rail"
                 }
             ],
             "rolls": 1.0

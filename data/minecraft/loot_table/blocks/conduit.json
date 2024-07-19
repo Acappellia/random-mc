@@ -6,7 +6,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:ender_eye"
+                    "name": "minecraft:observer"
                 }
             ],
             "rolls": 1.0

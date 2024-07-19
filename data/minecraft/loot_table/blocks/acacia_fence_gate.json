@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:polished_blackstone_brick_slab"
+                    "name": "minecraft:beacon"
                 }
             ],
             "rolls": 1.0

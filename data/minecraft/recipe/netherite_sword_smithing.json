@@ -8,7 +8,7 @@
     },
     "result": {
         "count": 1,
-        "id": "minecraft:oak_leaves"
+        "id": "minecraft:red_sandstone_slab"
     },
     "template": {
         "item": "minecraft:netherite_upgrade_smithing_template"

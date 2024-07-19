@@ -8,7 +8,7 @@
     },
     "result": {
         "count": 1,
-        "id": "minecraft:birch_slab"
+        "id": "minecraft:smooth_quartz_slab"
     },
     "template": {
         "item": "minecraft:netherite_upgrade_smithing_template"

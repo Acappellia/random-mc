@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:smoker"
+                    "name": "minecraft:green_bed"
                 }
             ],
             "rolls": 1.0

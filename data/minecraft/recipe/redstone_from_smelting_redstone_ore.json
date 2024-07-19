@@ -8,7 +8,7 @@
         "item": "minecraft:redstone_ore"
     },
     "result": {
-        "id": "minecraft:snow",
+        "id": "minecraft:mossy_stone_brick_stairs",
         "count": 1
     }
 }

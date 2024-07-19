@@ -26,7 +26,7 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:waxed_copper_block"
+                            "name": "minecraft:quartz"
                         },
                         {
                             "type": "minecraft:item",
@@ -35,7 +35,7 @@
                                     "condition": "minecraft:survives_explosion"
                                 }
                             ],
-                            "name": "minecraft:exposed_copper_trapdoor"
+                            "name": "minecraft:black_bed"
                         }
                     ]
                 }

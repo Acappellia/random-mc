@@ -26,7 +26,7 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:sniffer_egg"
+                            "name": "minecraft:magma_block"
                         },
                         {
                             "type": "minecraft:item",
@@ -35,7 +35,7 @@
                                     "condition": "minecraft:survives_explosion"
                                 }
                             ],
-                            "name": "minecraft:light_blue_dye"
+                            "name": "minecraft:pitcher_plant"
                         }
                     ]
                 }

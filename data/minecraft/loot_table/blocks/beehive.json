@@ -42,11 +42,11 @@
                                     ]
                                 }
                             ],
-                            "name": "minecraft:bamboo_hanging_sign"
+                            "name": "minecraft:chiseled_copper"
                         },
                         {
                             "type": "minecraft:item",
-                            "name": "minecraft:purpur_pillar"
+                            "name": "minecraft:seagrass"
                         }
                     ]
                 }

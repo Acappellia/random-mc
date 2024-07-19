@@ -26,7 +26,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:dried_kelp"
+                    "name": "minecraft:mangrove_propagule"
                 }
             ],
             "rolls": 1.0
@@ -83,7 +83,7 @@
                             "function": "minecraft:furnace_smelt"
                         }
                     ],
-                    "name": "minecraft:red_concrete_powder",
+                    "name": "minecraft:writable_book",
                     "weight": 3
                 },
                 {
@@ -99,7 +99,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:waxed_oxidized_copper",
+                    "name": "minecraft:black_candle",
                     "weight": 2
                 },
                 {
@@ -118,7 +118,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:spruce_fence_gate"
+                    "name": "minecraft:crimson_fence"
                 }
             ],
             "rolls": 1.0
@@ -195,7 +195,7 @@
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:red_shulker_box"
+                    "name": "minecraft:cherry_pressure_plate"
                 }
             ],
             "rolls": 1.0

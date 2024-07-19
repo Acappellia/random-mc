@@ -6,7 +6,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:blue_stained_glass_pane"
+                    "name": "minecraft:diorite_wall"
                 }
             ],
             "rolls": 1.0

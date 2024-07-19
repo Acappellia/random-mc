@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:fire_coral_block"
+                    "name": "minecraft:hay_block"
                 }
             ],
             "rolls": 1.0
@@ -26,7 +26,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:rose_bush"
+                    "name": "minecraft:oak_pressure_plate"
                 }
             ],
             "rolls": 1.0

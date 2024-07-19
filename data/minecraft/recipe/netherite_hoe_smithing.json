@@ -8,7 +8,7 @@
     },
     "result": {
         "count": 1,
-        "id": "minecraft:yellow_banner"
+        "id": "minecraft:birch_door"
     },
     "template": {
         "item": "minecraft:netherite_upgrade_smithing_template"

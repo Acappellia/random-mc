@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:raw_copper_block"
+                    "name": "minecraft:cut_copper"
                 }
             ],
             "rolls": 1.0

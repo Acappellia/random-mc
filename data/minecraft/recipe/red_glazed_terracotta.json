@@ -7,7 +7,7 @@
         "item": "minecraft:red_terracotta"
     },
     "result": {
-        "id": "minecraft:cut_sandstone_slab",
+        "id": "minecraft:bucket",
         "count": 1
     }
 }

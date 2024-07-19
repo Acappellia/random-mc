@@ -26,7 +26,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:wooden_shovel"
+                    "name": "minecraft:fishing_rod"
                 }
             ],
             "rolls": 1.0
@@ -56,7 +56,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:waxed_oxidized_cut_copper_slab"
+                    "name": "minecraft:bone_meal"
                 }
             ],
             "rolls": 1.0

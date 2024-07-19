@@ -44,7 +44,7 @@
                             "function": "minecraft:furnace_smelt"
                         }
                     ],
-                    "name": "minecraft:warped_roots"
+                    "name": "minecraft:snow"
                 }
             ],
             "rolls": 1.0
@@ -60,7 +60,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:lapis_lazuli"
+                    "name": "minecraft:exposed_cut_copper"
                 }
             ],
             "rolls": 1.0

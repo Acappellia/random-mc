@@ -26,7 +26,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:black_shulker_box"
+                    "name": "minecraft:copper_ingot"
                 }
             ],
             "rolls": 1.0
@@ -61,7 +61,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:rooted_dirt"
+                    "name": "minecraft:magenta_banner"
                 }
             ],
             "rolls": 1.0

@@ -6,7 +6,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:iron_ore"
+                    "name": "minecraft:dune_armor_trim_smithing_template"
                 }
             ],
             "rolls": 1.0

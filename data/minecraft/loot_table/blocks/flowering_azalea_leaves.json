@@ -37,7 +37,7 @@
                                     ]
                                 }
                             ],
-                            "name": "minecraft:oak_boat"
+                            "name": "minecraft:orange_stained_glass_pane"
                         },
                         {
                             "type": "minecraft:item",
@@ -56,7 +56,7 @@
                                     "enchantment": "minecraft:fortune"
                                 }
                             ],
-                            "name": "minecraft:poppy"
+                            "name": "minecraft:stripped_mangrove_wood"
                         }
                     ]
                 }
@@ -126,7 +126,7 @@
                             "function": "minecraft:explosion_decay"
                         }
                     ],
-                    "name": "minecraft:waxed_exposed_copper"
+                    "name": "minecraft:bamboo_slab"
                 }
             ],
             "rolls": 1.0

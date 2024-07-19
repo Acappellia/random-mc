@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:hay_block"
+                    "name": "minecraft:netherite_block"
                 }
             ],
             "rolls": 1.0
@@ -26,7 +26,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:magenta_bed"
+                    "name": "minecraft:red_sandstone_wall"
                 }
             ],
             "rolls": 1.0

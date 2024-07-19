@@ -37,7 +37,7 @@
                                     ]
                                 }
                             ],
-                            "name": "minecraft:polished_diorite_slab"
+                            "name": "minecraft:exposed_cut_copper_stairs"
                         },
                         {
                             "type": "minecraft:item",
@@ -68,7 +68,7 @@
                                     "function": "minecraft:explosion_decay"
                                 }
                             ],
-                            "name": "minecraft:shaper_armor_trim_smithing_template"
+                            "name": "minecraft:yellow_banner"
                         }
                     ]
                 }

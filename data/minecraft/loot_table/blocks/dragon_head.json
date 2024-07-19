@@ -6,7 +6,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:mangrove_wood"
+                    "name": "minecraft:acacia_fence_gate"
                 }
             ],
             "rolls": 1.0

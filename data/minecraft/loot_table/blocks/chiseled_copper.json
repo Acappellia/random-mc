@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:scaffolding"
+                    "name": "minecraft:yellow_candle"
                 }
             ],
             "rolls": 1.0

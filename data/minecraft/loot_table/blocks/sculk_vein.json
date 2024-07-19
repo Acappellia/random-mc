@@ -117,7 +117,7 @@
                             "function": "minecraft:explosion_decay"
                         }
                     ],
-                    "name": "minecraft:lime_candle"
+                    "name": "minecraft:smoker"
                 }
             ],
             "rolls": 1.0

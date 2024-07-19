@@ -26,7 +26,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:diorite"
+                    "name": "minecraft:bookshelf"
                 }
             ],
             "rolls": 1.0
@@ -56,7 +56,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:bamboo_fence"
+                    "name": "minecraft:iron_door"
                 }
             ],
             "rolls": 1.0
@@ -81,7 +81,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:oxidized_cut_copper_stairs"
+                    "name": "minecraft:light_weighted_pressure_plate"
                 }
             ],
             "rolls": 1.0

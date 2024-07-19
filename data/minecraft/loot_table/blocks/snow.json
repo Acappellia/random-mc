@@ -35,7 +35,7 @@
                                             "function": "minecraft:set_count"
                                         }
                                     ],
-                                    "name": "minecraft:acacia_fence_gate"
+                                    "name": "minecraft:armor_stand"
                                 },
                                 {
                                     "type": "minecraft:item",
@@ -55,7 +55,7 @@
                                             "function": "minecraft:set_count"
                                         }
                                     ],
-                                    "name": "minecraft:oak_stairs"
+                                    "name": "minecraft:turtle_helmet"
                                 },
                                 {
                                     "type": "minecraft:item",
@@ -75,7 +75,7 @@
                                             "function": "minecraft:set_count"
                                         }
                                     ],
-                                    "name": "minecraft:tuff_bricks"
+                                    "name": "minecraft:seagrass"
                                 },
                                 {
                                     "type": "minecraft:item",
@@ -95,7 +95,7 @@
                                             "function": "minecraft:set_count"
                                         }
                                     ],
-                                    "name": "minecraft:host_armor_trim_smithing_template"
+                                    "name": "minecraft:cooked_salmon"
                                 },
                                 {
                                     "type": "minecraft:item",
@@ -115,7 +115,7 @@
                                             "function": "minecraft:set_count"
                                         }
                                     ],
-                                    "name": "minecraft:deepslate_brick_stairs"
+                                    "name": "minecraft:stripped_acacia_wood"
                                 },
                                 {
                                     "type": "minecraft:item",
@@ -135,7 +135,7 @@
                                             "function": "minecraft:set_count"
                                         }
                                     ],
-                                    "name": "minecraft:lectern"
+                                    "name": "minecraft:dark_oak_slab"
                                 },
                                 {
                                     "type": "minecraft:item",
@@ -155,7 +155,7 @@
                                             "function": "minecraft:set_count"
                                         }
                                     ],
-                                    "name": "minecraft:dirt"
+                                    "name": "minecraft:orange_tulip"
                                 },
                                 {
                                     "type": "minecraft:item",
@@ -175,7 +175,7 @@
                                             "function": "minecraft:set_count"
                                         }
                                     ],
-                                    "name": "minecraft:gold_ingot"
+                                    "name": "minecraft:smooth_quartz_stairs"
                                 }
                             ],
                             "conditions": [
@@ -220,7 +220,7 @@
                                             "function": "minecraft:set_count"
                                         }
                                     ],
-                                    "name": "minecraft:bamboo"
+                                    "name": "minecraft:cornflower"
                                 },
                                 {
                                     "type": "minecraft:item",
@@ -240,7 +240,7 @@
                                             "function": "minecraft:set_count"
                                         }
                                     ],
-                                    "name": "minecraft:orange_concrete"
+                                    "name": "minecraft:mossy_stone_brick_slab"
                                 },
                                 {
                                     "type": "minecraft:item",
@@ -260,7 +260,7 @@
                                             "function": "minecraft:set_count"
                                         }
                                     ],
-                                    "name": "minecraft:mojang_banner_pattern"
+                                    "name": "minecraft:waxed_copper_block"
                                 },
                                 {
                                     "type": "minecraft:item",
@@ -280,7 +280,7 @@
                                             "function": "minecraft:set_count"
                                         }
                                     ],
-                                    "name": "minecraft:purple_stained_glass"
+                                    "name": "minecraft:blue_candle"
                                 },
                                 {
                                     "type": "minecraft:item",
@@ -300,7 +300,7 @@
                                             "function": "minecraft:set_count"
                                         }
                                     ],
-                                    "name": "minecraft:bamboo_raft"
+                                    "name": "minecraft:weeping_vines"
                                 },
                                 {
                                     "type": "minecraft:item",
@@ -320,7 +320,7 @@
                                             "function": "minecraft:set_count"
                                         }
                                     ],
-                                    "name": "minecraft:yellow_concrete_powder"
+                                    "name": "minecraft:soul_soil"
                                 },
                                 {
                                     "type": "minecraft:item",
@@ -340,11 +340,11 @@
                                             "function": "minecraft:set_count"
                                         }
                                     ],
-                                    "name": "minecraft:weathered_copper_trapdoor"
+                                    "name": "minecraft:dried_kelp_block"
                                 },
                                 {
                                     "type": "minecraft:item",
-                                    "name": "minecraft:smithing_table"
+                                    "name": "minecraft:note_block"
                                 }
                             ]
                         }

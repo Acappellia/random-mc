@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:cobblestone"
+                    "name": "minecraft:glow_berries"
                 }
             ],
             "rolls": 1.0

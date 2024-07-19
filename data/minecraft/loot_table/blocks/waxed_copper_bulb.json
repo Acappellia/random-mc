@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:exposed_copper_grate"
+                    "name": "minecraft:ender_chest"
                 }
             ],
             "rolls": 1.0

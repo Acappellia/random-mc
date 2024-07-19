@@ -23,7 +23,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:jungle_pressure_plate"
+                    "name": "minecraft:stone_brick_wall"
                 }
             ],
             "rolls": 1.0

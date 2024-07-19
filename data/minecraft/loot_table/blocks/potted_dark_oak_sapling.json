@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:light_gray_candle"
+                    "name": "minecraft:leather_horse_armor"
                 }
             ],
             "rolls": 1.0
@@ -26,7 +26,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:brick_wall"
+                    "name": "minecraft:brain_coral"
                 }
             ],
             "rolls": 1.0

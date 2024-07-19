@@ -7,7 +7,7 @@
         "item": "minecraft:chicken"
     },
     "result": {
-        "id": "minecraft:shield",
+        "id": "minecraft:dropper",
         "count": 1
     }
 }

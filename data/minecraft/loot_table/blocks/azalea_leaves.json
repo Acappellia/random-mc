@@ -37,7 +37,7 @@
                                     ]
                                 }
                             ],
-                            "name": "minecraft:bubble_coral"
+                            "name": "minecraft:pink_terracotta"
                         },
                         {
                             "type": "minecraft:item",
@@ -56,7 +56,7 @@
                                     "enchantment": "minecraft:fortune"
                                 }
                             ],
-                            "name": "minecraft:wheat_seeds"
+                            "name": "minecraft:light_blue_carpet"
                         }
                     ]
                 }
@@ -126,7 +126,7 @@
                             "function": "minecraft:explosion_decay"
                         }
                     ],
-                    "name": "minecraft:orange_dye"
+                    "name": "minecraft:yellow_concrete_powder"
                 }
             ],
             "rolls": 1.0

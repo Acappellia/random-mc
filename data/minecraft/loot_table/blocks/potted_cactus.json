@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:cracked_polished_blackstone_bricks"
+                    "name": "minecraft:black_stained_glass_pane"
                 }
             ],
             "rolls": 1.0
@@ -26,7 +26,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:sea_lantern"
+                    "name": "minecraft:tipped_arrow"
                 }
             ],
             "rolls": 1.0

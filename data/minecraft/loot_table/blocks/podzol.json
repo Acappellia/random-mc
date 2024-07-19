@@ -26,7 +26,7 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:cooked_porkchop"
+                            "name": "minecraft:redstone"
                         },
                         {
                             "type": "minecraft:item",
@@ -35,7 +35,7 @@
                                     "condition": "minecraft:survives_explosion"
                                 }
                             ],
-                            "name": "minecraft:honey_block"
+                            "name": "minecraft:crimson_pressure_plate"
                         }
                     ]
                 }

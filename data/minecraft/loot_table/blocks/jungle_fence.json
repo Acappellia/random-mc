@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:dark_oak_fence_gate"
+                    "name": "minecraft:torch"
                 }
             ],
             "rolls": 1.0

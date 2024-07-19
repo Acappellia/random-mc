@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:chiseled_quartz_block"
+                    "name": "minecraft:book"
                 }
             ],
             "rolls": 1.0

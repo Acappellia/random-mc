@@ -6,7 +6,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:oxidized_chiseled_copper"
+                    "name": "minecraft:hopper"
                 }
             ],
             "rolls": 1.0

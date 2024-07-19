@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:waxed_weathered_copper_bulb"
+                    "name": "minecraft:detector_rail"
                 }
             ],
             "rolls": 1.0

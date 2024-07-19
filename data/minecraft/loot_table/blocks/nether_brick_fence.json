@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:cobbled_deepslate_stairs"
+                    "name": "minecraft:packed_mud"
                 }
             ],
             "rolls": 1.0

@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:lime_stained_glass_pane"
+                    "name": "minecraft:orange_stained_glass_pane"
                 }
             ],
             "rolls": 1.0
@@ -26,7 +26,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:tuff_brick_wall"
+                    "name": "minecraft:waxed_exposed_chiseled_copper"
                 }
             ],
             "rolls": 1.0

@@ -26,7 +26,7 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:waxed_exposed_cut_copper_slab"
+                            "name": "minecraft:gray_candle"
                         },
                         {
                             "type": "minecraft:alternatives",
@@ -56,11 +56,11 @@
                                             "function": "minecraft:set_count"
                                         }
                                     ],
-                                    "name": "minecraft:wooden_sword"
+                                    "name": "minecraft:potato"
                                 },
                                 {
                                     "type": "minecraft:item",
-                                    "name": "minecraft:ladder"
+                                    "name": "minecraft:stone_stairs"
                                 }
                             ],
                             "conditions": [

@@ -17,7 +17,7 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:cooked_chicken"
+                            "name": "minecraft:lime_stained_glass_pane"
                         },
                         {
                             "type": "minecraft:item",
@@ -40,7 +40,7 @@
                                     "function": "minecraft:explosion_decay"
                                 }
                             ],
-                            "name": "minecraft:crimson_button"
+                            "name": "minecraft:waxed_oxidized_chiseled_copper"
                         }
                     ]
                 }

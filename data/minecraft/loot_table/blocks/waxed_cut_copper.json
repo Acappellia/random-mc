@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:diamond_block"
+                    "name": "minecraft:polished_andesite_slab"
                 }
             ],
             "rolls": 1.0

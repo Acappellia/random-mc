@@ -23,7 +23,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:moss_block"
+                    "name": "minecraft:stick"
                 }
             ],
             "rolls": 1.0

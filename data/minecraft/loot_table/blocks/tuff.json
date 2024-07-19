@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:composter"
+                    "name": "minecraft:light_gray_wool"
                 }
             ],
             "rolls": 1.0

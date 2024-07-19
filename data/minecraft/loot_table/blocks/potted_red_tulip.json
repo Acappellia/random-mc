@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:polished_tuff_stairs"
+                    "name": "minecraft:purple_glazed_terracotta"
                 }
             ],
             "rolls": 1.0
@@ -26,7 +26,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:deepslate_brick_wall"
+                    "name": "minecraft:cooked_cod"
                 }
             ],
             "rolls": 1.0

@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:spruce_sapling"
+                    "name": "minecraft:light_gray_shulker_box"
                 }
             ],
             "rolls": 1.0

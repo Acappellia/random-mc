@@ -26,7 +26,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:white_shulker_box"
+                    "name": "minecraft:campfire"
                 }
             ],
             "rolls": 1.0
@@ -83,7 +83,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:dragon_head"
+                    "name": "minecraft:deepslate_brick_slab"
                 }
             ],
             "rolls": 1.0

@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:quartz_stairs"
+                    "name": "minecraft:bone_meal"
                 }
             ],
             "rolls": 1.0
@@ -26,7 +26,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:netherite_scrap"
+                    "name": "minecraft:jungle_fence"
                 }
             ],
             "rolls": 1.0

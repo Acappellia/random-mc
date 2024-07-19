@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:mud_brick_stairs"
+                    "name": "minecraft:chiseled_deepslate"
                 }
             ],
             "rolls": 1.0

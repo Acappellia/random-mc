@@ -45,7 +45,7 @@
                                     "function": "minecraft:set_count"
                                 }
                             ],
-                            "name": "minecraft:exposed_copper_grate"
+                            "name": "minecraft:rotten_flesh"
                         },
                         {
                             "type": "minecraft:item",
@@ -58,7 +58,7 @@
                                     "condition": "minecraft:random_chance"
                                 }
                             ],
-                            "name": "minecraft:mangrove_stairs"
+                            "name": "minecraft:moss_carpet"
                         }
                     ]
                 }
@@ -109,7 +109,7 @@
                                     "function": "minecraft:set_count"
                                 }
                             ],
-                            "name": "minecraft:cobbled_deepslate_slab"
+                            "name": "minecraft:purpur_stairs"
                         },
                         {
                             "type": "minecraft:item",
@@ -122,7 +122,7 @@
                                     "condition": "minecraft:random_chance"
                                 }
                             ],
-                            "name": "minecraft:polished_diorite"
+                            "name": "minecraft:red_sandstone_wall"
                         }
                     ]
                 }

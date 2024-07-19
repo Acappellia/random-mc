@@ -20,7 +20,7 @@
                             "source": "block_entity"
                         }
                     ],
-                    "name": "minecraft:redstone"
+                    "name": "minecraft:cut_sandstone"
                 }
             ],
             "rolls": 1.0

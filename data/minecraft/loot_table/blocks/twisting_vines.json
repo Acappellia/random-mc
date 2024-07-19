@@ -37,7 +37,7 @@
                                     ]
                                 }
                             ],
-                            "name": "minecraft:target"
+                            "name": "minecraft:stone_pressure_plate"
                         },
                         {
                             "type": "minecraft:item",
@@ -53,7 +53,7 @@
                                     "enchantment": "minecraft:fortune"
                                 }
                             ],
-                            "name": "minecraft:snowball"
+                            "name": "minecraft:porkchop"
                         }
                     ]
                 }

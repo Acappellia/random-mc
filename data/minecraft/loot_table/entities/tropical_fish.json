@@ -13,7 +13,7 @@
                             "function": "minecraft:set_count"
                         }
                     ],
-                    "name": "minecraft:smithing_table"
+                    "name": "minecraft:pearlescent_froglight"
                 }
             ],
             "rolls": 1.0
@@ -29,7 +29,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:magenta_concrete"
+                    "name": "minecraft:red_mushroom"
                 }
             ],
             "rolls": 1.0

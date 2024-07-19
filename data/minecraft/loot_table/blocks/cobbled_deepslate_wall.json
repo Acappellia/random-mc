@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:cyan_wool"
+                    "name": "minecraft:quartz_block"
                 }
             ],
             "rolls": 1.0

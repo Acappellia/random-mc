@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:cod"
+                    "name": "minecraft:chiseled_deepslate"
                 }
             ],
             "rolls": 1.0
@@ -26,7 +26,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:brown_stained_glass_pane"
+                    "name": "minecraft:smooth_basalt"
                 }
             ],
             "rolls": 1.0

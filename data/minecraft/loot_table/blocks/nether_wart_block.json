@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:stone_brick_stairs"
+                    "name": "minecraft:cobblestone_stairs"
                 }
             ],
             "rolls": 1.0

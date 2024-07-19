@@ -26,7 +26,7 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:prismarine_brick_stairs"
+                            "name": "minecraft:birch_fence"
                         },
                         {
                             "type": "minecraft:item",
@@ -49,7 +49,7 @@
                                     "function": "minecraft:explosion_decay"
                                 }
                             ],
-                            "name": "minecraft:polished_blackstone_stairs"
+                            "name": "minecraft:purple_dye"
                         }
                     ]
                 }

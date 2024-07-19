@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:pitcher_plant"
+                    "name": "minecraft:crimson_sign"
                 }
             ],
             "rolls": 1.0
@@ -26,7 +26,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:bamboo_mosaic"
+                    "name": "minecraft:pink_glazed_terracotta"
                 }
             ],
             "rolls": 1.0

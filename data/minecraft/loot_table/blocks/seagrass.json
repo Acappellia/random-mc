@@ -14,7 +14,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:yellow_bed"
+                    "name": "minecraft:raw_gold"
                 }
             ],
             "rolls": 1.0

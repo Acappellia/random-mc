@@ -26,7 +26,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:acacia_trapdoor"
+                    "name": "minecraft:azalea"
                 }
             ],
             "rolls": 1.0
@@ -51,11 +51,11 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:magenta_candle"
+                    "name": "minecraft:smooth_red_sandstone"
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:pink_carpet"
+                    "name": "minecraft:melon_seeds"
                 },
                 {
                     "type": "minecraft:item",
@@ -97,7 +97,7 @@
                             "function": "minecraft:furnace_smelt"
                         }
                     ],
-                    "name": "minecraft:smooth_red_sandstone"
+                    "name": "minecraft:brown_wool"
                 }
             ],
             "rolls": 1.0

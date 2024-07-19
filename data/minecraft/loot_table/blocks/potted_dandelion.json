@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:andesite_stairs"
+                    "name": "minecraft:shulker_box"
                 }
             ],
             "rolls": 1.0
@@ -26,7 +26,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:copper_ingot"
+                    "name": "minecraft:andesite"
                 }
             ],
             "rolls": 1.0

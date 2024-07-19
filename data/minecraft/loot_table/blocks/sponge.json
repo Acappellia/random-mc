@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:prismarine_slab"
+                    "name": "minecraft:powered_rail"
                 }
             ],
             "rolls": 1.0

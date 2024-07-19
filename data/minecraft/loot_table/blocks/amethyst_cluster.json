@@ -26,7 +26,7 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:pink_stained_glass"
+                            "name": "minecraft:carved_pumpkin"
                         },
                         {
                             "type": "minecraft:alternatives",
@@ -53,7 +53,7 @@
                                             "function": "minecraft:apply_bonus"
                                         }
                                     ],
-                                    "name": "minecraft:blue_bed"
+                                    "name": "minecraft:emerald"
                                 },
                                 {
                                     "type": "minecraft:item",
@@ -67,7 +67,7 @@
                                             "function": "minecraft:explosion_decay"
                                         }
                                     ],
-                                    "name": "minecraft:pink_candle"
+                                    "name": "minecraft:polished_granite_slab"
                                 }
                             ]
                         }

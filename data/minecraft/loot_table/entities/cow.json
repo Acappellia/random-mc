@@ -26,7 +26,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:stone_sword"
+                    "name": "minecraft:red_concrete_powder"
                 }
             ],
             "rolls": 1.0
@@ -92,7 +92,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:black_bed"
+                    "name": "minecraft:stripped_jungle_wood"
                 }
             ],
             "rolls": 1.0

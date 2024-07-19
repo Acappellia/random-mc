@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:chiseled_deepslate"
+                    "name": "minecraft:iron_hoe"
                 }
             ],
             "rolls": 1.0
@@ -41,7 +41,7 @@
                             }
                         }
                     ],
-                    "name": "minecraft:brown_mushroom"
+                    "name": "minecraft:creeper_head"
                 }
             ],
             "rolls": 1.0

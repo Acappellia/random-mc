@@ -20,7 +20,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:oak_door"
+                    "name": "minecraft:ender_chest"
                 }
             ],
             "functions": [
@@ -58,7 +58,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:dark_oak_hanging_sign"
+                    "name": "minecraft:polished_diorite_stairs"
                 }
             ],
             "functions": [

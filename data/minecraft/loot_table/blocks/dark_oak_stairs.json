@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:glass_bottle"
+                    "name": "minecraft:spruce_pressure_plate"
                 }
             ],
             "rolls": 1.0

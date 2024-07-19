@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:red_wool"
+                    "name": "minecraft:oxidized_cut_copper_slab"
                 }
             ],
             "rolls": 1.0
@@ -26,7 +26,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:lime_bed"
+                    "name": "minecraft:pumpkin_seeds"
                 }
             ],
             "rolls": 1.0

@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:tuff_brick_stairs"
+                    "name": "minecraft:shield"
                 }
             ],
             "rolls": 1.0
@@ -26,7 +26,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:flower_pot"
+                    "name": "minecraft:polished_andesite"
                 }
             ],
             "rolls": 1.0

@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:red_sandstone_wall"
+                    "name": "minecraft:sponge"
                 }
             ],
             "rolls": 1.0

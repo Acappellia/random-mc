@@ -8,7 +8,7 @@
     },
     "result": {
         "count": 1,
-        "id": "minecraft:flint"
+        "id": "minecraft:lightning_rod"
     },
     "template": {
         "item": "minecraft:netherite_upgrade_smithing_template"

@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:leather_helmet"
+                    "name": "minecraft:dispenser"
                 }
             ],
             "rolls": 1.0

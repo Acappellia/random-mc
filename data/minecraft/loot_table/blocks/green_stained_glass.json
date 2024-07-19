@@ -23,7 +23,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:salmon"
+                    "name": "minecraft:ink_sac"
                 }
             ],
             "rolls": 1.0

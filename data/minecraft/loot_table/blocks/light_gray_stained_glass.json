@@ -23,7 +23,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:porkchop"
+                    "name": "minecraft:sea_lantern"
                 }
             ],
             "rolls": 1.0

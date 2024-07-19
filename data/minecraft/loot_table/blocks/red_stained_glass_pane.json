@@ -23,7 +23,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:netherite_pickaxe"
+                    "name": "minecraft:raw_copper_block"
                 }
             ],
             "rolls": 1.0

@@ -23,7 +23,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:smooth_basalt"
+                    "name": "minecraft:quartz_pillar"
                 }
             ],
             "rolls": 1.0

@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:copper_bulb"
+                    "name": "minecraft:rail"
                 }
             ],
             "rolls": 1.0

@@ -6,7 +6,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:feather"
+                    "name": "minecraft:spruce_trapdoor"
                 }
             ],
             "rolls": 1.0

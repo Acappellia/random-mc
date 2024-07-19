@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:deepslate_tile_wall"
+                    "name": "minecraft:polished_blackstone"
                 }
             ],
             "rolls": 1.0

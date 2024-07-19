@@ -26,7 +26,7 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:cobbled_deepslate_stairs"
+                            "name": "minecraft:prismarine_slab"
                         },
                         {
                             "type": "minecraft:item",
@@ -50,7 +50,7 @@
                                     "function": "minecraft:explosion_decay"
                                 }
                             ],
-                            "name": "minecraft:cut_red_sandstone"
+                            "name": "minecraft:polished_blackstone_stairs"
                         }
                     ]
                 }

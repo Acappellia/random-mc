@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:waxed_oxidized_copper_trapdoor"
+                    "name": "minecraft:gray_shulker_box"
                 }
             ],
             "rolls": 1.0
@@ -26,7 +26,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:chiseled_quartz_block"
+                    "name": "minecraft:cracked_polished_blackstone_bricks"
                 }
             ],
             "rolls": 1.0

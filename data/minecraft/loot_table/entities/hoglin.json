@@ -62,7 +62,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:piglin_head"
+                    "name": "minecraft:raw_copper"
                 }
             ],
             "rolls": 1.0
@@ -92,7 +92,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:gray_carpet"
+                    "name": "minecraft:dark_prismarine_slab"
                 }
             ],
             "rolls": 1.0

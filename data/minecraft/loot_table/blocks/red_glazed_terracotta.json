@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:porkchop"
+                    "name": "minecraft:glowstone_dust"
                 }
             ],
             "rolls": 1.0

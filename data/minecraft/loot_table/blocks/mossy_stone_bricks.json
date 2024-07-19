@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:bone_block"
+                    "name": "minecraft:blackstone_wall"
                 }
             ],
             "rolls": 1.0

@@ -17,7 +17,7 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:flower_pot"
+                            "name": "minecraft:orange_stained_glass"
                         },
                         {
                             "type": "minecraft:item",
@@ -35,7 +35,7 @@
                                     "function": "minecraft:explosion_decay"
                                 }
                             ],
-                            "name": "minecraft:coal"
+                            "name": "minecraft:bubble_coral_block"
                         }
                     ]
                 }

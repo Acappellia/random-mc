@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:item_frame"
+                    "name": "minecraft:warped_stairs"
                 }
             ],
             "rolls": 1.0

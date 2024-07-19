@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:dead_horn_coral_block"
+                    "name": "minecraft:stonecutter"
                 }
             ],
             "rolls": 1.0

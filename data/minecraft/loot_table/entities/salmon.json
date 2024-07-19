@@ -44,7 +44,7 @@
                             "function": "minecraft:furnace_smelt"
                         }
                     ],
-                    "name": "minecraft:tuff_brick_slab"
+                    "name": "minecraft:weathered_cut_copper_stairs"
                 }
             ],
             "rolls": 1.0
@@ -60,7 +60,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:sandstone_stairs"
+                    "name": "minecraft:golden_helmet"
                 }
             ],
             "rolls": 1.0

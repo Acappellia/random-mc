@@ -23,7 +23,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:short_grass"
+                    "name": "minecraft:snowball"
                 }
             ],
             "rolls": 1.0

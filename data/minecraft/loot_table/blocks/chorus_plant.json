@@ -20,7 +20,7 @@
                             "function": "minecraft:explosion_decay"
                         }
                     ],
-                    "name": "minecraft:emerald_block"
+                    "name": "minecraft:damaged_anvil"
                 }
             ],
             "rolls": 1.0

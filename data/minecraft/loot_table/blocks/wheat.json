@@ -23,11 +23,11 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:crimson_roots"
+                            "name": "minecraft:red_stained_glass_pane"
                         },
                         {
                             "type": "minecraft:item",
-                            "name": "minecraft:blue_banner"
+                            "name": "minecraft:orange_concrete"
                         }
                     ]
                 }
@@ -59,7 +59,7 @@
                             }
                         }
                     ],
-                    "name": "minecraft:iron_ingot"
+                    "name": "minecraft:jungle_planks"
                 }
             ],
             "rolls": 1.0

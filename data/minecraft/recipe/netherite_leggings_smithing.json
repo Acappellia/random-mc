@@ -8,7 +8,7 @@
     },
     "result": {
         "count": 1,
-        "id": "minecraft:spruce_sapling"
+        "id": "minecraft:dark_oak_leaves"
     },
     "template": {
         "item": "minecraft:netherite_upgrade_smithing_template"

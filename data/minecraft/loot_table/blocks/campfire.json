@@ -26,7 +26,7 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:deepslate_gold_ore"
+                            "name": "minecraft:waxed_exposed_cut_copper_stairs"
                         },
                         {
                             "type": "minecraft:item",
@@ -42,7 +42,7 @@
                                     "function": "minecraft:set_count"
                                 }
                             ],
-                            "name": "minecraft:yellow_bed"
+                            "name": "minecraft:dragon_egg"
                         }
                     ]
                 }

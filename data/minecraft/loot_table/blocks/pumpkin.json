@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:wheat_seeds"
+                    "name": "minecraft:slime_block"
                 }
             ],
             "rolls": 1.0

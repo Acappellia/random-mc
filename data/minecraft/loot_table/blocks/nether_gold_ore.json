@@ -26,7 +26,7 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:bricks"
+                            "name": "minecraft:mangrove_trapdoor"
                         },
                         {
                             "type": "minecraft:item",
@@ -49,7 +49,7 @@
                                     "function": "minecraft:explosion_decay"
                                 }
                             ],
-                            "name": "minecraft:green_concrete_powder"
+                            "name": "minecraft:birch_planks"
                         }
                     ]
                 }

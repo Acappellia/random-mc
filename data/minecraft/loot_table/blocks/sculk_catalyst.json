@@ -23,7 +23,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:stripped_dark_oak_wood"
+                    "name": "minecraft:ward_armor_trim_smithing_template"
                 }
             ],
             "rolls": 1.0

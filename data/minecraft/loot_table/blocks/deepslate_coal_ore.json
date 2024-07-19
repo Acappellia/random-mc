@@ -26,7 +26,7 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:smooth_quartz_slab"
+                            "name": "minecraft:orange_carpet"
                         },
                         {
                             "type": "minecraft:item",
@@ -40,7 +40,7 @@
                                     "function": "minecraft:explosion_decay"
                                 }
                             ],
-                            "name": "minecraft:dark_oak_button"
+                            "name": "minecraft:light_weighted_pressure_plate"
                         }
                     ]
                 }

@@ -23,7 +23,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:red_concrete"
+                    "name": "minecraft:granite_wall"
                 }
             ],
             "rolls": 1.0

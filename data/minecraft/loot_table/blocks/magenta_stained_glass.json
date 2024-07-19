@@ -23,7 +23,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:sandstone_wall"
+                    "name": "minecraft:clock"
                 }
             ],
             "rolls": 1.0

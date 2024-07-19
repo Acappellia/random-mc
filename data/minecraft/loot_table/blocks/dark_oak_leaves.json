@@ -37,7 +37,7 @@
                                     ]
                                 }
                             ],
-                            "name": "minecraft:iron_ingot"
+                            "name": "minecraft:gold_nugget"
                         },
                         {
                             "type": "minecraft:item",
@@ -56,7 +56,7 @@
                                     "enchantment": "minecraft:fortune"
                                 }
                             ],
-                            "name": "minecraft:smooth_quartz_stairs"
+                            "name": "minecraft:cooked_mutton"
                         }
                     ]
                 }
@@ -126,7 +126,7 @@
                             "function": "minecraft:explosion_decay"
                         }
                     ],
-                    "name": "minecraft:chiseled_deepslate"
+                    "name": "minecraft:stone_brick_slab"
                 }
             ],
             "rolls": 1.0
@@ -183,7 +183,7 @@
                             "enchantment": "minecraft:fortune"
                         }
                     ],
-                    "name": "minecraft:magenta_glazed_terracotta"
+                    "name": "minecraft:honey_bottle"
                 }
             ],
             "rolls": 1.0

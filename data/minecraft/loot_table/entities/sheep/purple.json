@@ -6,7 +6,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:stick"
+                    "name": "minecraft:sandstone_wall"
                 }
             ],
             "rolls": 1.0

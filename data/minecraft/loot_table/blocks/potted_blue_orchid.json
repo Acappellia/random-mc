@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:black_glazed_terracotta"
+                    "name": "minecraft:white_dye"
                 }
             ],
             "rolls": 1.0
@@ -26,7 +26,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:blue_glazed_terracotta"
+                    "name": "minecraft:deepslate_lapis_ore"
                 }
             ],
             "rolls": 1.0

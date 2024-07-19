@@ -37,7 +37,7 @@
                                     ]
                                 }
                             ],
-                            "name": "minecraft:oak_fence"
+                            "name": "minecraft:red_bed"
                         },
                         {
                             "type": "minecraft:item",
@@ -56,7 +56,7 @@
                                     "enchantment": "minecraft:fortune"
                                 }
                             ],
-                            "name": "minecraft:cyan_bed"
+                            "name": "minecraft:quartz_bricks"
                         }
                     ]
                 }
@@ -126,7 +126,7 @@
                             "function": "minecraft:explosion_decay"
                         }
                     ],
-                    "name": "minecraft:spruce_stairs"
+                    "name": "minecraft:andesite_stairs"
                 }
             ],
             "rolls": 1.0
@@ -183,7 +183,7 @@
                             "enchantment": "minecraft:fortune"
                         }
                     ],
-                    "name": "minecraft:mangrove_wood"
+                    "name": "minecraft:light_blue_carpet"
                 }
             ],
             "rolls": 1.0

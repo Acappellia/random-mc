@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:bow"
+                    "name": "minecraft:light_gray_carpet"
                 }
             ],
             "rolls": 1.0
@@ -26,7 +26,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:short_grass"
+                    "name": "minecraft:spruce_door"
                 }
             ],
             "rolls": 1.0

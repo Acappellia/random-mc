@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:sentry_armor_trim_smithing_template"
+                    "name": "minecraft:dried_kelp_block"
                 }
             ],
             "rolls": 1.0
@@ -26,7 +26,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:cobbled_deepslate_slab"
+                    "name": "minecraft:magenta_candle"
                 }
             ],
             "rolls": 1.0

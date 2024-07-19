@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:sugar"
+                    "name": "minecraft:comparator"
                 }
             ],
             "rolls": 1.0

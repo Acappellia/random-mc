@@ -26,7 +26,7 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:spectral_arrow"
+                            "name": "minecraft:copper_ingot"
                         },
                         {
                             "type": "minecraft:item",
@@ -35,7 +35,7 @@
                                     "condition": "minecraft:survives_explosion"
                                 }
                             ],
-                            "name": "minecraft:redstone_torch"
+                            "name": "minecraft:purple_banner"
                         }
                     ]
                 }

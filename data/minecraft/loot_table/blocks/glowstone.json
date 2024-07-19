@@ -26,7 +26,7 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:polished_deepslate_slab"
+                            "name": "minecraft:light_gray_dye"
                         },
                         {
                             "type": "minecraft:item",
@@ -59,7 +59,7 @@
                                     "function": "minecraft:explosion_decay"
                                 }
                             ],
-                            "name": "minecraft:granite"
+                            "name": "minecraft:emerald_block"
                         }
                     ]
                 }

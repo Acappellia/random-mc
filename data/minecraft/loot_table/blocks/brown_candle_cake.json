@@ -6,7 +6,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:furnace"
+                    "name": "minecraft:birch_button"
                 }
             ],
             "rolls": 1.0

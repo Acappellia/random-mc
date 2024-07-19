@@ -26,7 +26,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:diamond_chestplate"
+                    "name": "minecraft:bone"
                 }
             ],
             "rolls": 1.0
@@ -56,7 +56,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:jack_o_lantern"
+                    "name": "minecraft:activator_rail"
                 }
             ],
             "rolls": 1.0

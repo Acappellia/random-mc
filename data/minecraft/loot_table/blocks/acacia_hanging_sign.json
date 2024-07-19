@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:stonecutter"
+                    "name": "minecraft:polished_diorite_slab"
                 }
             ],
             "rolls": 1.0

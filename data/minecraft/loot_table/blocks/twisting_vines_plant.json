@@ -37,7 +37,7 @@
                                     ]
                                 }
                             ],
-                            "name": "minecraft:deepslate_tile_slab"
+                            "name": "minecraft:cut_sandstone_slab"
                         },
                         {
                             "type": "minecraft:item",
@@ -53,7 +53,7 @@
                                     "enchantment": "minecraft:fortune"
                                 }
                             ],
-                            "name": "minecraft:flower_pot"
+                            "name": "minecraft:pink_petals"
                         }
                     ]
                 }

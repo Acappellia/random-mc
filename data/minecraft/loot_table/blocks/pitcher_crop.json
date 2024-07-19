@@ -37,7 +37,7 @@
                                     "function": "minecraft:set_count"
                                 }
                             ],
-                            "name": "minecraft:slime_ball"
+                            "name": "minecraft:stripped_warped_hyphae"
                         },
                         {
                             "type": "minecraft:item",
@@ -64,7 +64,7 @@
                                     "function": "minecraft:set_count"
                                 }
                             ],
-                            "name": "minecraft:cherry_trapdoor"
+                            "name": "minecraft:waxed_oxidized_copper_grate"
                         },
                         {
                             "type": "minecraft:item",
@@ -91,7 +91,7 @@
                                     "function": "minecraft:set_count"
                                 }
                             ],
-                            "name": "minecraft:medium_amethyst_bud"
+                            "name": "minecraft:crimson_planks"
                         },
                         {
                             "type": "minecraft:item",
@@ -118,7 +118,7 @@
                                     "function": "minecraft:set_count"
                                 }
                             ],
-                            "name": "minecraft:wither_skeleton_skull"
+                            "name": "minecraft:raw_iron_block"
                         },
                         {
                             "type": "minecraft:item",
@@ -145,7 +145,7 @@
                                     "function": "minecraft:set_count"
                                 }
                             ],
-                            "name": "minecraft:stonecutter"
+                            "name": "minecraft:rotten_flesh"
                         }
                     ]
                 }

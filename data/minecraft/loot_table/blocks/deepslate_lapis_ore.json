@@ -26,7 +26,7 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:dead_tube_coral_block"
+                            "name": "minecraft:waxed_exposed_cut_copper_slab"
                         },
                         {
                             "type": "minecraft:item",
@@ -49,7 +49,7 @@
                                     "function": "minecraft:explosion_decay"
                                 }
                             ],
-                            "name": "minecraft:prismarine_stairs"
+                            "name": "minecraft:exposed_cut_copper_slab"
                         }
                     ]
                 }

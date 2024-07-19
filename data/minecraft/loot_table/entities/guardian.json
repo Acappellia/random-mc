@@ -26,7 +26,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:lightning_rod"
+                    "name": "minecraft:calibrated_sculk_sensor"
                 }
             ],
             "rolls": 1.0
@@ -83,7 +83,7 @@
                             "function": "minecraft:furnace_smelt"
                         }
                     ],
-                    "name": "minecraft:black_concrete_powder",
+                    "name": "minecraft:hopper",
                     "weight": 2
                 },
                 {
@@ -99,7 +99,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:blackstone_slab",
+                    "name": "minecraft:cooked_chicken",
                     "weight": 2
                 },
                 {

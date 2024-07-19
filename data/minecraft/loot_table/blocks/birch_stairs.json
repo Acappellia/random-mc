@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:terracotta"
+                    "name": "minecraft:polished_tuff_stairs"
                 }
             ],
             "rolls": 1.0

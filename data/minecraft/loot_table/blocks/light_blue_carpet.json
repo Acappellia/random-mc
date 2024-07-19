@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:deepslate_tile_slab"
+                    "name": "minecraft:glowstone"
                 }
             ],
             "rolls": 1.0

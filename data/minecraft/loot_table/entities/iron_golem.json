@@ -17,7 +17,7 @@
                             "function": "minecraft:set_count"
                         }
                     ],
-                    "name": "minecraft:red_stained_glass_pane"
+                    "name": "minecraft:light_blue_stained_glass_pane"
                 }
             ],
             "rolls": 1.0
@@ -38,7 +38,7 @@
                             "function": "minecraft:set_count"
                         }
                     ],
-                    "name": "minecraft:waxed_oxidized_cut_copper_slab"
+                    "name": "minecraft:chiseled_polished_blackstone"
                 }
             ],
             "rolls": 1.0

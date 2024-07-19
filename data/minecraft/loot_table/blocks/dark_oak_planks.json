@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:chiseled_red_sandstone"
+                    "name": "minecraft:repeater"
                 }
             ],
             "rolls": 1.0

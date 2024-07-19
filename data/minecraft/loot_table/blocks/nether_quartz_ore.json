@@ -26,7 +26,7 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:diamond"
+                            "name": "minecraft:gray_glazed_terracotta"
                         },
                         {
                             "type": "minecraft:item",
@@ -40,7 +40,7 @@
                                     "function": "minecraft:explosion_decay"
                                 }
                             ],
-                            "name": "minecraft:waxed_chiseled_copper"
+                            "name": "minecraft:honeycomb_block"
                         }
                     ]
                 }

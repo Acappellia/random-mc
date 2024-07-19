@@ -20,7 +20,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:flower_pot"
+                    "name": "minecraft:magenta_terracotta"
                 }
             ],
             "rolls": 1.0

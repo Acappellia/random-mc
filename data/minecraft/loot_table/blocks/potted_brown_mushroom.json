@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:amethyst_shard"
+                    "name": "minecraft:waxed_copper_grate"
                 }
             ],
             "rolls": 1.0
@@ -26,7 +26,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:creeper_banner_pattern"
+                    "name": "minecraft:blue_bed"
                 }
             ],
             "rolls": 1.0

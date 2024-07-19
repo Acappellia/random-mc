@@ -26,7 +26,7 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:netherite_shovel"
+                            "name": "minecraft:magenta_concrete_powder"
                         },
                         {
                             "type": "minecraft:item",
@@ -52,7 +52,7 @@
                                     "function": "minecraft:explosion_decay"
                                 }
                             ],
-                            "name": "minecraft:mangrove_slab"
+                            "name": "minecraft:iron_sword"
                         }
                     ]
                 }

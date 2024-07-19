@@ -23,7 +23,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:flower_pot"
+                    "name": "minecraft:soul_torch"
                 }
             ],
             "rolls": 1.0

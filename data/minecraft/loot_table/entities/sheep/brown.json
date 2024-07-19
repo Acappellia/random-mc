@@ -6,7 +6,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:hopper_minecart"
+                    "name": "minecraft:wheat_seeds"
                 }
             ],
             "rolls": 1.0

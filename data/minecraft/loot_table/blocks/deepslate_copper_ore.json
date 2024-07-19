@@ -26,7 +26,7 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:apple"
+                            "name": "minecraft:waxed_copper_trapdoor"
                         },
                         {
                             "type": "minecraft:item",
@@ -49,7 +49,7 @@
                                     "function": "minecraft:explosion_decay"
                                 }
                             ],
-                            "name": "minecraft:mossy_stone_bricks"
+                            "name": "minecraft:orange_concrete_powder"
                         }
                     ]
                 }

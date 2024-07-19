@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:red_mushroom_block"
+                    "name": "minecraft:light_gray_terracotta"
                 }
             ],
             "rolls": 1.0

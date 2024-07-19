@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:hay_block"
+                    "name": "minecraft:birch_sapling"
                 }
             ],
             "rolls": 1.0

@@ -62,7 +62,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:copper_ore",
+                    "name": "minecraft:bamboo_pressure_plate",
                     "weight": 3
                 },
                 {
@@ -123,7 +123,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:waxed_weathered_chiseled_copper"
+                    "name": "minecraft:wither_skeleton_skull"
                 }
             ],
             "rolls": 1.0

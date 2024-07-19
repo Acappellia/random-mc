@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:light_weighted_pressure_plate"
+                    "name": "minecraft:yellow_terracotta"
                 }
             ],
             "rolls": 1.0
@@ -26,7 +26,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:cut_sandstone"
+                    "name": "minecraft:cooked_beef"
                 }
             ],
             "rolls": 1.0

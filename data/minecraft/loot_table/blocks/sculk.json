@@ -23,7 +23,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:oak_slab"
+                    "name": "minecraft:acacia_button"
                 }
             ],
             "rolls": 1.0

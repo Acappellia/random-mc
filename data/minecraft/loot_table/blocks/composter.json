@@ -11,7 +11,7 @@
                             "function": "minecraft:explosion_decay"
                         }
                     ],
-                    "name": "minecraft:stripped_warped_hyphae"
+                    "name": "minecraft:cooked_rabbit"
                 }
             ],
             "rolls": 1.0
@@ -30,7 +30,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:sea_pickle"
+                    "name": "minecraft:lime_shulker_box"
                 }
             ],
             "rolls": 1.0

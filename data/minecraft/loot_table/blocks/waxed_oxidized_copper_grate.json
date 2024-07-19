@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:cut_red_sandstone"
+                    "name": "minecraft:exposed_copper_door"
                 }
             ],
             "rolls": 1.0

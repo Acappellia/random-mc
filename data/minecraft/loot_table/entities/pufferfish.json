@@ -13,7 +13,7 @@
                             "function": "minecraft:set_count"
                         }
                     ],
-                    "name": "minecraft:carrot"
+                    "name": "minecraft:magenta_wool"
                 }
             ],
             "rolls": 1.0
@@ -29,7 +29,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:waxed_weathered_chiseled_copper"
+                    "name": "minecraft:mangrove_fence"
                 }
             ],
             "rolls": 1.0

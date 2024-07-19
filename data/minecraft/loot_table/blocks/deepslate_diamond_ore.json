@@ -26,7 +26,7 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:waxed_weathered_cut_copper_stairs"
+                            "name": "minecraft:purple_bed"
                         },
                         {
                             "type": "minecraft:item",
@@ -40,7 +40,7 @@
                                     "function": "minecraft:explosion_decay"
                                 }
                             ],
-                            "name": "minecraft:weathered_cut_copper_stairs"
+                            "name": "minecraft:flowering_azalea"
                         }
                     ]
                 }

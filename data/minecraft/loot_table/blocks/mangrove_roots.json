@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:activator_rail"
+                    "name": "minecraft:stick"
                 }
             ],
             "rolls": 1.0

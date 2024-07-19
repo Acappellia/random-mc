@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:deepslate_brick_stairs"
+                    "name": "minecraft:oak_button"
                 }
             ],
             "rolls": 1.0

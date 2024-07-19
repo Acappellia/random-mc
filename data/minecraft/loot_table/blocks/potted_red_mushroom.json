@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:polished_diorite_stairs"
+                    "name": "minecraft:red_sandstone_stairs"
                 }
             ],
             "rolls": 1.0
@@ -26,7 +26,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:amethyst_cluster"
+                    "name": "minecraft:cut_sandstone"
                 }
             ],
             "rolls": 1.0

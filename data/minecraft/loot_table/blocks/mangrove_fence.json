@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:bamboo_mosaic_slab"
+                    "name": "minecraft:crafter"
                 }
             ],
             "rolls": 1.0

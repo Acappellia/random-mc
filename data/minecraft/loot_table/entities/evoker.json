@@ -6,7 +6,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:note_block"
+                    "name": "minecraft:coal"
                 }
             ],
             "rolls": 1.0
@@ -41,7 +41,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:chiseled_stone_bricks"
+                    "name": "minecraft:raw_gold"
                 }
             ],
             "rolls": 1.0

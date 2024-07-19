@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:andesite_slab"
+                    "name": "minecraft:exposed_cut_copper_slab"
                 }
             ],
             "rolls": 1.0

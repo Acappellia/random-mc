@@ -45,7 +45,7 @@
                                     "function": "minecraft:set_count"
                                 }
                             ],
-                            "name": "minecraft:wither_rose"
+                            "name": "minecraft:smoker"
                         },
                         {
                             "type": "minecraft:item",
@@ -58,7 +58,7 @@
                                     "condition": "minecraft:random_chance"
                                 }
                             ],
-                            "name": "minecraft:spruce_planks"
+                            "name": "minecraft:white_concrete_powder"
                         }
                     ]
                 }
@@ -109,7 +109,7 @@
                                     "function": "minecraft:set_count"
                                 }
                             ],
-                            "name": "minecraft:acacia_button"
+                            "name": "minecraft:cobblestone"
                         },
                         {
                             "type": "minecraft:item",
@@ -122,7 +122,7 @@
                                     "condition": "minecraft:random_chance"
                                 }
                             ],
-                            "name": "minecraft:polished_blackstone_stairs"
+                            "name": "minecraft:exposed_copper_trapdoor"
                         }
                     ]
                 }

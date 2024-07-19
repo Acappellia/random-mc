@@ -37,7 +37,7 @@
                                     ]
                                 }
                             ],
-                            "name": "minecraft:cyan_banner"
+                            "name": "minecraft:white_stained_glass_pane"
                         },
                         {
                             "type": "minecraft:item",
@@ -57,7 +57,7 @@
                                     "enchantment": "minecraft:fortune"
                                 }
                             ],
-                            "name": "minecraft:brick_wall"
+                            "name": "minecraft:lapis_lazuli"
                         }
                     ]
                 }
@@ -127,7 +127,7 @@
                             "function": "minecraft:explosion_decay"
                         }
                     ],
-                    "name": "minecraft:crimson_sign"
+                    "name": "minecraft:smooth_sandstone_stairs"
                 }
             ],
             "rolls": 1.0

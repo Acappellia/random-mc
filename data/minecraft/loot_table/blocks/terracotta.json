@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:weathered_chiseled_copper"
+                    "name": "minecraft:crafting_table"
                 }
             ],
             "rolls": 1.0

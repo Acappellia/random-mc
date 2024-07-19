@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:emerald"
+                    "name": "minecraft:glass_bottle"
                 }
             ],
             "rolls": 1.0

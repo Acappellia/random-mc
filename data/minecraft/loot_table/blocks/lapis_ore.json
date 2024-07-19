@@ -26,7 +26,7 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:dropper"
+                            "name": "minecraft:stone_stairs"
                         },
                         {
                             "type": "minecraft:item",
@@ -49,7 +49,7 @@
                                     "function": "minecraft:explosion_decay"
                                 }
                             ],
-                            "name": "minecraft:waxed_exposed_cut_copper_slab"
+                            "name": "minecraft:smithing_table"
                         }
                     ]
                 }

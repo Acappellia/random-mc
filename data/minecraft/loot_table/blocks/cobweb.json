@@ -37,7 +37,7 @@
                                     ]
                                 }
                             ],
-                            "name": "minecraft:light_blue_wool"
+                            "name": "minecraft:polished_diorite"
                         },
                         {
                             "type": "minecraft:item",
@@ -46,7 +46,7 @@
                                     "condition": "minecraft:survives_explosion"
                                 }
                             ],
-                            "name": "minecraft:exposed_copper_grate"
+                            "name": "minecraft:redstone"
                         }
                     ]
                 }

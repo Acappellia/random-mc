@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:exposed_copper_bulb"
+                    "name": "minecraft:red_candle"
                 }
             ],
             "rolls": 1.0

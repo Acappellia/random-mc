@@ -37,7 +37,7 @@
                                     ]
                                 }
                             ],
-                            "name": "minecraft:respawn_anchor"
+                            "name": "minecraft:gray_dye"
                         },
                         {
                             "type": "minecraft:item",
@@ -56,7 +56,7 @@
                                     "enchantment": "minecraft:fortune"
                                 }
                             ],
-                            "name": "minecraft:waxed_cut_copper_stairs"
+                            "name": "minecraft:leather"
                         }
                     ]
                 }
@@ -126,7 +126,7 @@
                             "function": "minecraft:explosion_decay"
                         }
                     ],
-                    "name": "minecraft:waxed_oxidized_cut_copper_stairs"
+                    "name": "minecraft:orange_shulker_box"
                 }
             ],
             "rolls": 1.0

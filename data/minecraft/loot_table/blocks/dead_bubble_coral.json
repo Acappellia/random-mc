@@ -23,7 +23,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:amethyst_block"
+                    "name": "minecraft:oak_sign"
                 }
             ],
             "rolls": 1.0

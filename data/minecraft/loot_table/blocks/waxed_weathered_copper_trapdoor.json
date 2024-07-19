@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:terracotta"
+                    "name": "minecraft:red_nether_brick_slab"
                 }
             ],
             "rolls": 1.0

@@ -26,7 +26,7 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:jungle_button"
+                            "name": "minecraft:sandstone_stairs"
                         },
                         {
                             "type": "minecraft:item",
@@ -35,7 +35,7 @@
                                     "condition": "minecraft:survives_explosion"
                                 }
                             ],
-                            "name": "minecraft:waxed_cut_copper"
+                            "name": "minecraft:birch_boat"
                         }
                     ]
                 }

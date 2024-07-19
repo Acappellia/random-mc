@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:red_sandstone"
+                    "name": "minecraft:granite_wall"
                 }
             ],
             "rolls": 1.0

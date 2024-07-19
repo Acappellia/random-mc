@@ -26,7 +26,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:rotten_flesh"
+                    "name": "minecraft:brown_dye"
                 }
             ],
             "rolls": 1.0
@@ -56,7 +56,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:waxed_chiseled_copper"
+                    "name": "minecraft:mangrove_boat"
                 }
             ],
             "rolls": 1.0
@@ -96,7 +96,7 @@
                             "id": "minecraft:slowness"
                         }
                     ],
-                    "name": "minecraft:recovery_compass"
+                    "name": "minecraft:spruce_button"
                 }
             ],
             "rolls": 1.0

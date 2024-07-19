@@ -23,7 +23,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:crimson_sign"
+                    "name": "minecraft:sentry_armor_trim_smithing_template"
                 }
             ],
             "rolls": 1.0

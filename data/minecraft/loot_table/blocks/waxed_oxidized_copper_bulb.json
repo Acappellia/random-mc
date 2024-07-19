@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:polished_blackstone_button"
+                    "name": "minecraft:quartz_slab"
                 }
             ],
             "rolls": 1.0

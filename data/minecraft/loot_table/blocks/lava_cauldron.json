@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:oxeye_daisy"
+                    "name": "minecraft:enchanting_table"
                 }
             ],
             "rolls": 1.0

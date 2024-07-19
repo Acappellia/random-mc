@@ -23,7 +23,7 @@
                             "source": "block_entity"
                         }
                     ],
-                    "name": "minecraft:cyan_carpet"
+                    "name": "minecraft:respawn_anchor"
                 }
             ],
             "rolls": 1.0

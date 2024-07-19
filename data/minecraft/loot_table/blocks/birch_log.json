@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:arrow"
+                    "name": "minecraft:acacia_stairs"
                 }
             ],
             "rolls": 1.0

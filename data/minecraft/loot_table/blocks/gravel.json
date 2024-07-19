@@ -26,7 +26,7 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:composter"
+                            "name": "minecraft:flower_pot"
                         },
                         {
                             "type": "minecraft:alternatives",
@@ -45,11 +45,11 @@
                                             "enchantment": "minecraft:fortune"
                                         }
                                     ],
-                                    "name": "minecraft:crafter"
+                                    "name": "minecraft:weathered_cut_copper_stairs"
                                 },
                                 {
                                     "type": "minecraft:item",
-                                    "name": "minecraft:carrot"
+                                    "name": "minecraft:waxed_chiseled_copper"
                                 }
                             ],
                             "conditions": [

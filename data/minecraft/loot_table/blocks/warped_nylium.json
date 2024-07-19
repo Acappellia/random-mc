@@ -26,7 +26,7 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:purple_candle"
+                            "name": "minecraft:red_sandstone"
                         },
                         {
                             "type": "minecraft:item",
@@ -35,7 +35,7 @@
                                     "condition": "minecraft:survives_explosion"
                                 }
                             ],
-                            "name": "minecraft:flower_pot"
+                            "name": "minecraft:pink_wool"
                         }
                     ]
                 }

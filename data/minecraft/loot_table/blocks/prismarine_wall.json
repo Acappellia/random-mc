@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:warped_door"
+                    "name": "minecraft:lodestone"
                 }
             ],
             "rolls": 1.0

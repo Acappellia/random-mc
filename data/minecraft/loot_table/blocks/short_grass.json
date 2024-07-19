@@ -17,7 +17,7 @@
                                     }
                                 }
                             ],
-                            "name": "minecraft:flower_pot"
+                            "name": "minecraft:white_wool"
                         },
                         {
                             "type": "minecraft:item",
@@ -40,7 +40,7 @@
                                     "function": "minecraft:explosion_decay"
                                 }
                             ],
-                            "name": "minecraft:oak_fence_gate"
+                            "name": "minecraft:waxed_exposed_cut_copper"
                         }
                     ]
                 }

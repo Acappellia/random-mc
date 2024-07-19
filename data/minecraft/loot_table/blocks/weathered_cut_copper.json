@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:barrel"
+                    "name": "minecraft:tnt"
                 }
             ],
             "rolls": 1.0

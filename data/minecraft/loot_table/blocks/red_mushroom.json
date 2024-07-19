@@ -11,7 +11,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:bamboo_sign"
+                    "name": "minecraft:acacia_wood"
                 }
             ],
             "rolls": 1.0

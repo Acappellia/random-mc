@@ -26,7 +26,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:blackstone_wall"
+                    "name": "minecraft:stone_brick_stairs"
                 }
             ],
             "rolls": 1.0
@@ -56,7 +56,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:tide_armor_trim_smithing_template"
+                    "name": "minecraft:mace"
                 }
             ],
             "rolls": 1.0
@@ -96,7 +96,7 @@
                             "id": "minecraft:poison"
                         }
                     ],
-                    "name": "minecraft:fletching_table"
+                    "name": "minecraft:iron_boots"
                 }
             ],
             "rolls": 1.0

@@ -37,7 +37,7 @@
                                     ]
                                 }
                             ],
-                            "name": "minecraft:oxidized_copper"
+                            "name": "minecraft:mud_brick_wall"
                         },
                         {
                             "type": "minecraft:item",
@@ -53,7 +53,7 @@
                                     "enchantment": "minecraft:fortune"
                                 }
                             ],
-                            "name": "minecraft:eye_armor_trim_smithing_template"
+                            "name": "minecraft:warped_wart_block"
                         }
                     ]
                 }
